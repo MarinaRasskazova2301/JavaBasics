@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
-public class DoubleCharTest {
+public class DoubleCharTests {
     @Test
     void sampleTest() {
         assertEquals("SSttrriinngg",DoubleChar.doubleChar("String"));

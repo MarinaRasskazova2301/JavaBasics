@@ -2,7 +2,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 
-public class ScissorsPaperTest {
+public class ScissorsPaperTests {
     @Test
     public void test1() {
         System.out.println("Fixed Tests Player 1 won!");

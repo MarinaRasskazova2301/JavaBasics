@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class DnaStrandTest {
+public class DnaStrandTests {
     @Test
     public void test01() {
         assertEquals("TTTT", DnaStrand.makeComplement("AAAA"));

@@ -1,7 +1,7 @@
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
-public class MiddleCharactersTest {
+public class MiddleCharactersTests {
     @Test
     public void evenTests() {
         assertEquals("es", MiddleCharacters.getMiddle("test"));

@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class MaxAndMinNumberTest {
+public class MaxAndMinNumberTests {
 
 
     private MaxAndMinNumber  maxAndMinNumber = new MaxAndMinNumber();

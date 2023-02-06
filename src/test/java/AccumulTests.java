@@ -1,7 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-public class AccumulTest {
+public class AccumulTests {
     private static void testing(String actual, String expected) {
         assertEquals(expected, actual);
     }

@@ -1,7 +1,7 @@
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
-public class SmallestIntegerFinderTest {
+public class SmallestIntegerFinderTests {
 
     @Test
     public void example1(){

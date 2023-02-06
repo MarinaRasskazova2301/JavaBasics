@@ -3,7 +3,7 @@ import org.junit.Before;
 import java.util.Random;
 import static org.junit.Assert.assertArrayEquals;
 
-public class MinMaxTest {
+public class MinMaxTests {
     Random rand;
 
     @Before
